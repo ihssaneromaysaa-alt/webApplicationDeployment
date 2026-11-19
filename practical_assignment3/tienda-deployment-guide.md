@@ -4,7 +4,7 @@
 Download the provided test website, set it up on an Ubuntu server with Git version control and Apache virtual host, make a small change from Windows, and update the production server.
 
 **Attached file**  
-`tienda-demo-practica3.zip` (dated 11 November 2026)
+`tienda-demo-practica3.zip` (dated 12 November 2026)
 
 ---
 
@@ -145,18 +145,3 @@ http://tienda.local
 Confirm that the title change is visible.
 
 ![Screenshot: Website working in Windows browser](images/08-final-website.png)
-
----
-
-## Required deliverable (PDF)
-
-Create a PDF document that contains the following information:
-
-1. Description of the deployment performed.
-2. URL of the GitHub repository used.
-3. Screenshot of the `git clone` process.
-4. Screenshot of the website directory structure on Ubuntu.
-5. Configuration of the Virtual Host used.
-6. Screenshot of the website working in the Windows browser.
-7. Evidence of an update performed with `git pull`.
-8. Explanation of any issues encountered and how they were solved.
